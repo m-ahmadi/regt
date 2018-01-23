@@ -1,0 +1,1 @@
+robocopy dist ..\regs\public\css reglazh-rtl.css /NS /NC /NFL /NDL /NP /NJH /NJS
