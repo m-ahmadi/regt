@@ -1,4 +1,3 @@
-@echo off
 set DIR=src\ukscss\
 if exist %DIR% (
 	rd %DIR% /S /Q
